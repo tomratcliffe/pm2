@@ -20,6 +20,9 @@
   "name": {
     "type": "string"
   },
+  "user": {
+    "type": "string"
+  },
   "max_memory_restart": {
     "type": [
       "string",
